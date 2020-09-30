@@ -57,7 +57,7 @@
 
         <!-- Welcome screen -->
         <div id="welcome">
-          <h1>Welcome <span class="first_name">...</span></h1>
+          <h1>Hola <span class="first_name">...</span></h1>
           <img class="profile" src="images/profile.png" />
           <ul class="stats">
             <li><img src="images/coin40.png" alt="Coins" /> <span class="me coins">...</span></li>
@@ -74,14 +74,14 @@
         </div>
       </div>
 
-      <!-- Leaderboard -->
+      <!-- untuaje -->
       <div class="panel right hidden" id="leaderboard">
         <div class="nofriends">
           <p>Friend Smash! es mejor con amigos! Haga clic aquí para ver las puntuaciones de sus amigos</p>
           <button class"friendPermissions">Grant user_friends</button>
         </div>
         <div class="friends">
-          <h1>Leaderboard</h1>
+          <h1>Tabla de clasificacion</h1>
           <ul class="scrollable_list leaderboard">
             <li class="loading">Loading...</li>
             <li class="template">
@@ -104,7 +104,7 @@
           <button class"friendPermissions">Grant user_friends</button>
         </div>
         <div class="friends">
-          <h1>Challenge friends</h1>
+          <h1>Amigos en Friend Smash!</h1>
           <div class="tabs">
             <button class="friends">Request</button>
             <button class="invitable_friends">Invite</button>
@@ -131,7 +131,7 @@
 
       <!-- Tienda del Juego -->
       <div class="panel right hidden" id="store">
-        <h1>Store</h1>
+        <h1>Tienda del Juego</h1>
         <div class="normal_store">
           <ul class="scrollable_list store invitable_friends">
             <li class="item" data-product="<?= $serverUrl ?>/payments/100coins.html">
