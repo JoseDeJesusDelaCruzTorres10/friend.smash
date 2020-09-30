@@ -156,7 +156,7 @@
         </div>
         <div class="mobile_store">
           <ul class="scrollable_list friendselector invitable_friends">
-            <li class="loading">Loading...</li>
+            <li class="loading">Cargando...</li>
             <li class="template">
               <img src="images/profile.png" class="profile small" />
               <span class="name">...</span>
