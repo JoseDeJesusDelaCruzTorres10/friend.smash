@@ -77,7 +77,7 @@
       <!-- Leaderboard -->
       <div class="panel right hidden" id="leaderboard">
         <div class="nofriends">
-          <p>Friend Smash! is better with friends! Click here to see your friends' scores</p>
+          <p>Friend Smash! es mejor con amigos! Haga clic aquí para ver las puntuaciones de sus amigos</p>
           <button class"friendPermissions">Grant user_friends</button>
         </div>
         <div class="friends">
@@ -100,7 +100,7 @@
       <!-- Friends -->
       <div class="panel right hidden friends" id="friendselector">
         <div class="nofriends">
-          <p>Friend Smash! is better with friends! Click here to see a list of friends to challenge.</p>
+          <p>Friend Smash! es mejor con amigos! Haga clic aquí para ver una lista de amigos para desafiar.</p>
           <button class"friendPermissions">Grant user_friends</button>
         </div>
         <div class="friends">
@@ -186,7 +186,7 @@
 
     <!-- Game Over screen -->
     <section id="gameover" class="hidden">
-      <h1>Game Over!</h1>
+      <h1>¡Fin del Juego!</h1>
       <img src="images/profile.png" class="profile" />
       <div class="stats">
         <p>You smashed <span class="name">...</span> <span class="score">...</span> times and collected <span class="coins">...</span> <span class="coins_plurality">coins</span>!</p>
@@ -206,7 +206,7 @@
     <!-- Footer -->
     <footer>
       <div class="container">
-        <p><a href="https://www.facebook.com/appcenter/<?= $appNamespace ?>">View Friend Smash! on App Center</a></p>
+        <p><a href="https://www.facebook.com/appcenter/<?= $appNamespace ?>">Ve Friend Smash! en el Centro de Apps de Facebook</a></p>
       </div>
     </footer>
 
