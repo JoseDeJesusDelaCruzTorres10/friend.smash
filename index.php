@@ -74,7 +74,7 @@
         </div>
       </div>
 
-      <!-- untuaje -->
+      <!-- Puntuaje -->
       <div class="panel right hidden" id="leaderboard">
         <div class="nofriends">
           <p>Friend Smash! es mejor con amigos! Haga clic aquí para ver las puntuaciones de sus amigos</p>
@@ -83,7 +83,7 @@
         <div class="friends">
           <h1>Tabla de clasificacion</h1>
           <ul class="scrollable_list leaderboard">
-            <li class="loading">Loading...</li>
+            <li class="loading">Cargando...</li>
             <li class="template">
               <img src="images/profile.png" class="profile small" />
               <div class="namecontainer">
@@ -110,14 +110,14 @@
             <button class="invitable_friends">Invite</button>
           </div>
           <ul class="scrollable_list friendselector friends">
-            <li class="loading">Loading...</li>
+            <li class="loading">Cargando...</li>
             <li class="template">
               <img src="images/profile.png" class="profile small" />
               <span class="name">...</span>
             </li>
           </ul>
           <ul class="scrollable_list friendselector invitable_friends">
-            <li class="loading">Loading...</li>
+            <li class="loading">Cargando...</li>
             <li class="template">
               <img src="images/profile.png" class="profile small" />
               <span class="name">...</span>
