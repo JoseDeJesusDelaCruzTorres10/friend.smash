@@ -97,7 +97,7 @@
         </div>
       </div>
 
-      <!-- Friends -->
+      <!-- Amigos -->
       <div class="panel right hidden friends" id="friendselector">
         <div class="nofriends">
           <p>Friend Smash! es mejor con amigos! Haga clic aquí para ver una lista de amigos para desafiar.</p>
@@ -129,7 +129,7 @@
         </div>
       </div>
 
-      <!-- Store -->
+      <!-- Tienda del Juego -->
       <div class="panel right hidden" id="store">
         <h1>Store</h1>
         <div class="normal_store">
