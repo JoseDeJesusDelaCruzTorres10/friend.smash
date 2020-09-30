@@ -17,7 +17,7 @@ FB.getLoginStatus(function(response) {
 function parse_signed_request($signed_request) {
   list($encoded_sig, $payload) = explode('.', $signed_request, 2); 
 
-  $secret = "appsecret"; // Use your app secret here
+  $secret = "ad61830a0c59ed6bc038ca65969cac7c"; // Use your app secret here
 
   // decode the data
   $sig = base64_url_decode($encoded_sig);
