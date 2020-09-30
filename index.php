@@ -136,19 +136,19 @@
           <ul class="scrollable_list store invitable_friends">
             <li class="item" data-product="<?= $serverUrl ?>/payments/100coins.html">
               <img src="images/bundle.png" class="icon small" />
-              <span class="name">100 coins</span>
+              <span class="name">100 monedas</span>
               <img src="images/buy64.png" class="button buy small" alt="Buy" />
               <img src="images/gift64.png" class="button gift small" alt="Gift" />
             </li>
             <li class="item" data-product="<?= $serverUrl ?>/payments/500coins.html">
               <img src="images/bundle.png" class="icon small" />
-              <span class="name">500 coins</span>
+              <span class="name">500 monedas</span>
               <img src="images/buy64.png" class="button buy small" alt="Buy" />
               <img src="images/gift64.png" class="button gift small" alt="Gift" />
             </li>
             <li class="item" data-product="<?= $serverUrl ?>/payments/1000coins.html">
               <img src="images/bundle.png" class="icon small" />
-              <span class="name">1000 coins</span>
+              <span class="name">1000 monedas</span>
               <img src="images/buy64.png" class="button buy small" alt="Buy" />
               <img src="images/gift64.png" class="button gift small" alt="Gift" />
             </li>
