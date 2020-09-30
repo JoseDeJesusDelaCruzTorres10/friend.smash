@@ -174,10 +174,10 @@
       <div id="gamestats">
         <div class="message">
           <img class="profile" src="images/profile.png" />
-          <p>Smash <span class="name">...</span></p>
+          <p>Rompio <span class="name">...</span></p>
         </div>
         <div class="score">
-          <p>Score <span class="score_value">...</span></p>
+          <p>Puntuaje <span class="score_value">...</span></p>
         </div>
         <div class="bombs"></div>
         <div class="lives"></div>
