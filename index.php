@@ -189,13 +189,13 @@
       <h1>¡Fin del Juego!</h1>
       <img src="images/profile.png" class="profile" />
       <div class="stats">
-        <p>You smashed <span class="name">...</span> <span class="score">...</span> times and collected <span class="coins">...</span> <span class="coins_plurality">coins</span>!</p>
+        <p>Rompistes <span class="name">...</span> <span class="score">...</span> veces y recogio <span class="coins">...</span> <span class="coins_plurality">monedas</span>!</p>
       </div>
       <div class="buttons">
         <button class="image challenge"></button>
       </div>
       <div class="share_composer">
-        <textarea placeholder="Say something about your game"></textarea>
+        <textarea placeholder="Di algo sobre tu juego"></textarea>
         <div class="buttons">
           <button class="image close"></button>
           <button class="image share_action"></button>
